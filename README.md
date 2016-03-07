@@ -3,6 +3,7 @@
 ## Contributors
 
 * Samuel Hilson
+* Scott Ward
 
 ## Instructions
 
